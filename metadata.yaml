@@ -1,5 +1,5 @@
 _repo: In-Darkest-England-and-the-Way-Out_475
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcc 'HV'
 - !lcsh 'Salvation Army'
 - !lcsh 'Unemployed -- Great Britain'
+- GITenberg
 title: In Darkest England, and the Way Out
 url: http://www.gutenberg.org/ebooks/475
